@@ -3,12 +3,12 @@
 
 
    /**
-   * SoapClientManager
+   * SoapRequest
    * 
    * 
    * @author <trutetnicolas@gmail.com>
    */
-	class SoapClientManager {
+	class SoapRequest {
 
 		protected $response;
 

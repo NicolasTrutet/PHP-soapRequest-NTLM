@@ -94,7 +94,7 @@
 	/* Perform the request. */
 	$soapRequest = new SoapRequest($url, $header, $soap_request, $credentials);
 	
-	/*Get your XML response. */
+	/* Get your XML response. */
 	$xmlDoc = $soapRequest->getResponse();
 
 

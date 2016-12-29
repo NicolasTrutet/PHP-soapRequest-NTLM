@@ -56,7 +56,7 @@
 
 
 	/** * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-	* The following illustrates how to perform a soap request using the above SoapClientManager class.
+	* The following illustrates how to perform a soap request using the above SoapRequest class.
 	*/
 	
     $header = array(

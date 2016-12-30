@@ -6,7 +6,6 @@
    * SoapRequest
    * 
    * 
-   * @author <trutetnicolas@gmail.com>
    */
 	class SoapRequest {
 
